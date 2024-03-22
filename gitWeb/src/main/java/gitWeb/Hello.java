@@ -15,5 +15,6 @@ public class Hello {
 		
 		//다음 사용자가 새로운 기능 추가 
 
+		//reset 
 	}
 }
